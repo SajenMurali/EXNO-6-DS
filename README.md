@@ -19,10 +19,6 @@ STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
  ```
-Name : kirthick roshan j
-Register Number : 212223040097
-```
- ```
 import seaborn as sns
 import matplotlib.pyplot as plt
 x=[1,2,3,4,5]
